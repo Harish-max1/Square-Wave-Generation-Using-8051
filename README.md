@@ -8,7 +8,7 @@ To generate a square wave using the 8051 microcontroller and observe the wavefor
 •	Proteus Design Suite
 
 ## Circuit Diagram Setup in Proteus:
-1.	Open Proteus and create a new project.
+1.	Open Proteus and create a new project..
 2.	Add the following components from the library:
 o	8051 Microcontroller (AT89C51)
 o	Oscilloscope (to observe the waveform)
